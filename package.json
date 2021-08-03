@@ -10,7 +10,7 @@
   "dependencies": {
     "core-js": "^3.8.3",
     "vue": "^3.0.4",
-    "vue-glitched-writer": "^1.1.7"
+    "vue-glitched-writer": "^1.2.2"
   },
   "devDependencies": {
     "@babel/core": "^7.12.16",
